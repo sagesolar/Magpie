@@ -1,1 +1,29 @@
 @import 'bootstrap/dist/css/bootstrap';
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  background: linear-gradient(to right, #ddd, #fff);
+}
+
+.navbar {
+  background-color: #000 !important;
+}
+
+#footer {
+  background-color: #000 !important;
+}
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#home-container {
+  margin-top: 10px;
+}
+
+
+
